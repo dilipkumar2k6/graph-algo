@@ -1,3 +1,7 @@
+# Eulerian path/cycles
+https://leetcode.com/problems/reconstruct-itinerary/
+
+
 # BFS/DFS on undirected graphs
 https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 
@@ -26,5 +30,5 @@ https://leetcode.com/problems/course-schedule/
 
 https://leetcode.com/problems/course-schedule-ii/
 
-https://leetcode.com/problems/critical-connections-in-a-network/ (extra)
+https://leetcode.com/problems/critical-connections-in-a-network/
 
