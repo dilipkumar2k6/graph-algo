@@ -20,7 +20,13 @@ https://leetcode.com/problems/max-area-of-island/
 
 https://leetcode.com/problems/flood-fill/
 
+https://leetcode.com/problems/critical-connections-in-a-network/
+
+https://leetcode.com/problems/alien-dictionary/
+
 https://leetcode.com/problems/word-break
+
+
 # BFS on Directed graphs
 https://leetcode.com/problems/snakes-and-ladders/
 
@@ -30,5 +36,4 @@ https://leetcode.com/problems/course-schedule/
 
 https://leetcode.com/problems/course-schedule-ii/
 
-https://leetcode.com/problems/critical-connections-in-a-network/
 
