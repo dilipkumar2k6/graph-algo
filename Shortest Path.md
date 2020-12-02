@@ -18,8 +18,13 @@
 # Cheapest flight with at most k stops/Bellman ford algo
 https://leetcode.com/problems/cheapest-flights-within-k-stops/
 https://leetcode.com/problems/network-delay-time/
-![](BellmanFord1.png)
-![](BellmanFord2.png)
+- No need to calculate all predecsoor at a time
+- Current hops can be initialize by previous value
+- Look at each edge one at a time
+![](assets/bellman-ford-dp-1.png)
+![](assets/bf-steps-1.png)
+![](assets/BellmanFord1.png)
+![](assets/BellmanFord2.png)
 - Dijkastra algo doesn't work for negative weight
 - Bellman ford algo works even for negative weight (as long as there is not negative weight cycle)
 - Dijkastra time complexity is O(n*logm)
