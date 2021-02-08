@@ -24,12 +24,11 @@ https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/
 
 # Find Bridges in a graph 
 - A bridge is an edge, removing which increase the number of components.
-- 
 ## Tarjan's algo
 https://www.youtube.com/watch?v=Rhxs4k6DyMM&list=RDCMUCnxhETjJtTPs37hOZ7vQ88g&index=6
 
 ## Problems
-https://www.youtube.com/watch?v=HsBefuOqkd4&list=RDCMUCnxhETjJtTPs37hOZ7vQ88g&index=9
+https://leetcode.com/problems/critical-connections-in-a-network/
 
 https://leetcode.com/problems/redundant-connection/
 
