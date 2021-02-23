@@ -88,15 +88,23 @@ https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbor
 
 # Minimum spanning tree
 https://leetcode.com/problems/connecting-cities-with-minimum-cost/
+
 https://leetcode.com/problems/optimize-water-distribution-in-a-village/
 
 # Topological sort using DFS
 https://leetcode.com/problems/course-schedule
+
 https://leetcode.com/problems/course-schedule-ii/
 
 # Topological sort using BFS
+https://leetcode.com/problems/course-schedule
+
+https://leetcode.com/problems/course-schedule-ii/
+
 https://leetcode.com/problems/parallel-courses/
+
 https://leetcode.com/problems/parallel-courses-ii/
+
 Refer Refer https://sohojeprogramming.blogspot.com/2020/07/1494-parallel-courses-ii.html
 
 # Graph with Binary search 
@@ -104,6 +112,7 @@ https://leetcode.com/problems/path-with-maximum-minimum-value/
 
 # Prim's algo
 https://leetcode.com/problems/connecting-cities-with-minimum-cost/
+
 https://leetcode.com/problems/optimize-water-distribution-in-a-village/
 
 
