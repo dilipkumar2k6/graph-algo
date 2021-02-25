@@ -23,6 +23,7 @@ https://leetcode.com/problems/flood-fill/
 
 https://leetcode.com/problems/word-break
 
+# Special BFS problems
 https://leetcode.com/problems/pacific-atlantic-water-flow/
 
 https://leetcode.com/problems/minesweeper/
@@ -32,6 +33,10 @@ https://leetcode.com/problems/sliding-puzzle/
 https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
 
 https://leetcode.com/problems/shortest-path-to-get-all-keys/
+
+https://leetcode.com/problems/sudoku-solver/
+
+https://leetcode.com/problems/valid-sudoku/
 
 # BFS on Directed graphs
 https://leetcode.com/problems/snakes-and-ladders/
@@ -81,6 +86,8 @@ https://leetcode.com/problems/path-with-minimum-effort/
 https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
 
 https://leetcode.com/problems/course-schedule-iii/
+
+https://leetcode.com/problems/shortest-path-to-get-all-keys/
 
 # Shortest Path/ Floyd's algo
 https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
