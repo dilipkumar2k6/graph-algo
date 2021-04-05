@@ -54,6 +54,7 @@ https://leetcode.com/problems/course-schedule/
 
 https://leetcode.com/problems/course-schedule-ii/
 
+https://leetcode.com/problems/evaluate-division/
 # Tarjan's algo
 https://leetcode.com/problems/critical-connections-in-a-network/
 
