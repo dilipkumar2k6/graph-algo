@@ -57,6 +57,8 @@ https://leetcode.com/problems/course-schedule-ii/
 https://leetcode.com/problems/evaluate-division/
 
 https://leetcode.com/problems/all-paths-from-source-lead-to-destination/
+
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 # Tarjan's algo
 https://leetcode.com/problems/critical-connections-in-a-network/
 
