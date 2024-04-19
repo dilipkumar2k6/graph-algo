@@ -98,6 +98,8 @@ https://leetcode.com/problems/course-schedule-iii/
 
 https://leetcode.com/problems/shortest-path-to-get-all-keys/
 
+https://leetcode.com/problems/maximum-path-quality-of-a-graph/description/
+
 # Shortest Path/ Floyd's algo
 https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
 
